@@ -23,3 +23,4 @@ cachemean <- function(x, ...) {
        x$setmean(m)
        m
 }
+It will help the engineers for many calculations.
